@@ -44,7 +44,7 @@ const About = () => {
                     </div>
                 </div>
                 <div style={{width:"20%",margin:"auto"}}>
-                    <Grid  style={{display:"grid", gridTemplateColumns:"repeat(2,1fr)", gap:"20px"}}>
+                    <Grid  className='small-main-content'>
                         <div className="smallContainer"></div>
                         <div className="smallContainer"></div>
                         <div className="smallContainer"></div>
