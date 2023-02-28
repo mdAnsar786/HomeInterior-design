@@ -1,0 +1,31 @@
+.mainGrid{
+    display: flex;
+    justify-content:space-around;
+    margin:20px 0px 0px 0px;
+    /* margin-right: 60px; */
+
+}
+.bigContain{
+   
+    background-color: gray;
+    height: 130px;
+    width: 340px;
+}
+.smallContain{
+    background-color: gray;
+    height: 130px;
+    width: 235px;
+}
+
+/* 
+.carouselGrid{
+    display: flex;
+    justify-content: space-between;
+} */
+   
+
+/* .product-info{
+   width: 300px;
+   
+   
+} */

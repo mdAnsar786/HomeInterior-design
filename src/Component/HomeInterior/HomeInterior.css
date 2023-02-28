@@ -1,0 +1,30 @@
+.Interior-design{
+    width: 250px;
+    height: 85px;
+    background: yellow;
+    color: black;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+.arrow{
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    width: 25px;
+    height: 25px;
+    margin: auto;
+}
+
+.text-design{
+    text-align: left;
+    margin: auto;
+}
+.maindiv{
+    display: flex;
+    margin-left: 197px;
+    width: 80%;
+}
